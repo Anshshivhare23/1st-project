@@ -1,1 +1,1 @@
-This is my first full stack web development project WebWorks like a Upwork
+This is my firs web development project WebWorks which is similar to Upwork
